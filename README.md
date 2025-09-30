@@ -2,17 +2,15 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+ Welcome to my professional portfolio!
 
-# GitHub Pages
+I am a Physics major at the University of Connecticut, graduating in Spring 2025. With a strong foundation in theoretical and applied physics, my academic journey has focused on data analysis, computational modeling, and experimental research. I’m driven by curiosity and the pursuit of understanding skills I hope to apply in graduate research or R&D roles after graduation.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+About Me
 
-</header>
+Throughout my undergraduate career, I have engaged in projects and research experiences that highlight the power of physics in solving real-world problems. From analyzing experimental data to developing computational simulations, I enjoy bridging theory with application. I’m also active in the Society of Physics Students (SPS), where I help lead outreach and student engagement events.
 
+ my-pages
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
@@ -36,12 +34,25 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
--->
 
----
+My core skills include:
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Computational & Data Tools: Python, MATLAB, Excel, Origin
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Physics Applications: Classical Mechanics, Quantum Physics, Statistical Physics, and Electromagnetism
 
-</footer>
+Communication & Leadership: Public outreach through SPS, mentoring peers in advanced coursework
+
+Projects
+ main
+
+1. SPS Outreach Program
+Helped organize and present physics demonstrations to undergraduate students and the general public, aiming to make core physical concepts engaging and accessible.
+
+2. Computational Modeling Project (Coursework)
+Developed a numerical solver in Python to analyze wave motion and energy transfer in complex systems.
+
+Contact Information
+
+📧 Email: [Isaac.pena@uconn.edu]
+📍 Location: Storrs,
