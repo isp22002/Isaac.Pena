@@ -10,7 +10,7 @@ Throughout my undergraduate career, I have engaged in projects and research expe
 
 My core skills include:
 
-Computational & Data Tools: Python, MATLAB, Excel, Origin
+Computational & Data Tools: Python, MATLAB, Excel
 
 Physics Applications: Classical Mechanics, Quantum Physics, Statistical Physics, and Electromagnetism
 
