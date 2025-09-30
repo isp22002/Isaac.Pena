@@ -2,7 +2,7 @@
 title: Welcome to my professional portfolio!
 --- 
 
-I am a Physics major at the University of Connecticut, graduating in Spring 2025. With a strong foundation in theoretical and applied physics, my academic journey has focused on data analysis, computational modeling, and experimental research. I’m driven by curiosity and the pursuit of understanding — skills I hope to apply in graduate research or R&D roles after graduation.
+I am a Physics major at the University of Connecticut, graduating in Spring 2025. With a strong foundation in theoretical and applied physics, my academic journey has focused on data analysis, computational modeling, and experimental research. I’m driven by curiosity and the pursuit of understanding skills I hope to apply in graduate research or R&D roles after graduation.
 
 About Me
 
