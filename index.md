@@ -3,7 +3,7 @@ title: Welcome to my blog
 ---
 I am a Physics major at the University of Connecticut, graduating in Spring 2025. With a strong foundation in theoretical and applied physics, my academic journey has focused on data analysis, computational modeling, and experimental research. I’m driven by curiosity and the pursuit of understanding — skills I hope to apply in graduate research or R&D roles after graduation.
 
-About Me
+About Me:
 
 Throughout my undergraduate career, I have engaged in projects and research experiences that highlight the power of physics in solving real-world problems. From analyzing experimental data to developing computational simulations, I enjoy bridging theory with application. I’m also active in the Society of Physics Students (SPS), where I help lead outreach and student engagement events.
 
