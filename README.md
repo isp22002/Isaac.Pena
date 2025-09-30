@@ -2,56 +2,31 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+ Welcome to my professional portfolio!
 
-# GitHub Pages
+I am a Physics major at the University of Connecticut, graduating in Spring 2025. With a strong foundation in theoretical and applied physics, my academic journey has focused on data analysis, computational modeling, and experimental research. I’m driven by curiosity and the pursuit of understanding skills I hope to apply in graduate research or R&D roles after graduation.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+About Me
 
-</header>
+Throughout my undergraduate career, I have engaged in projects and research experiences that highlight the power of physics in solving real-world problems. From analyzing experimental data to developing computational simulations, I enjoy bridging theory with application. I’m also active in the Society of Physics Students (SPS), where I help lead outreach and student engagement events.
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+My core skills include:
 
-## Finish
+Computational & Data Tools: Python, MATLAB, Excel, Origin
 
-_Congratulations friend, you've completed this course!_
+Physics Applications: Classical Mechanics, Quantum Physics, Statistical Physics, and Electromagnetism
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+Communication & Leadership: Public outreach through SPS, mentoring peers in advanced coursework
 
-Your blog is now live and has been deployed!
+Projects
 
-Here's a recap of all the tasks you've accomplished in your repository:
+1. SPS Outreach Program
+Helped organize and present physics demonstrations to undergraduate students and the general public, aiming to make core physical concepts engaging and accessible.
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+2. Computational Modeling Project (Coursework)
+Developed a numerical solver in Python to analyze wave motion and energy transfer in complex systems.
 
-### What's next?
+Contact Information
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+📧 Email: [Isaac.pena@uconn.edu]
+📍 Location: Storrs,
