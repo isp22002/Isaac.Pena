@@ -14,3 +14,15 @@ Computational & Data Tools: Python, MATLAB, Excel, Origin
 Physics Applications: Classical Mechanics, Quantum Physics, Statistical Physics, and Electromagnetism
 
 Communication & Leadership: Public outreach through SPS, mentoring peers in advanced coursework
+
+Projects
+1. SPS Outreach Program
+Helped organize and present physics demonstrations to undergraduate students and the general public, aiming to make core physical concepts engaging and accessible.
+
+2. Computational Modeling Project (Coursework)
+Developed a numerical solver in Python to analyze wave motion and energy transfer in complex systems.
+
+Contact Information
+
+📧 Email: [Isaac.pena@uconn.edu]
+📍 Location: Storrs, CT
