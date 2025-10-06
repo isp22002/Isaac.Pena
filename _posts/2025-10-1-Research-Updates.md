@@ -6,7 +6,7 @@ As part of my undergraduate journey, I’ve had the opportunity to engage in res
 
 Under the guidance of Professor Colombo, I have been investigating the stability and behavior of 3D-printed optical mounts. This project explores how different materials, design geometries, and environmental factors affect long-term performance and vibration resistance.
 
-Through this research, I’ve gained experience in precision measurement, data collection, and statistical uncertainty analysis — applying both theoretical understanding and experimental techniques to assess mechanical stability. The project also connects to sustainable laboratory practices by leveraging additive manufacturing as a low-cost alternative to traditional optical components.
+Through this research, I’ve gained experience in precision measurement, data collection, and statistical uncertainty analysis by applying both theoretical understanding and experimental techniques to assess mechanical stability. The project also connects to sustainable laboratory practices by leveraging additive manufacturing as a low-cost alternative to traditional optical components.
 
 2. Computational Modeling and Simulation
 
