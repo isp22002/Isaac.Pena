@@ -1,4 +1,10 @@
-Project Highlights: Physics in Action
+---
+title: "Project Highlights"
+date: 2025-10-06
+---
+
+
+
 
 As part of my undergraduate journey, I’ve had the opportunity to engage in research and projects that bridge experimental physics, data analysis, and computational modeling. Below are some highlights:
 
