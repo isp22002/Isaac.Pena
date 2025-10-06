@@ -16,6 +16,6 @@ As part of my coursework and independent study, I’ve developed Python-based mo
 
 Beyond research, I’ve taken an active role in SPS, helping organize outreach events that introduce fundamental physics through interactive demonstrations. This experience has strengthened my skills in science communication and teamwork, as well as my appreciation for physics as a collaborative and accessible field.
 
-These experiences have not only expanded my technical skill set — from data-driven analysis to experimental design — but also shaped how I approach problem-solving as a physicist.
+These experiences have not only expanded my technical skill set from data-driven analysis to experimental design  but also shaped how I approach problem-solving as a physicist.
 
 ✨ Stay tuned for future updates and research highlights!
